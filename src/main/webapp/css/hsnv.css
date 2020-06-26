@@ -1,0 +1,15 @@
+@charset "utf-8";
+#form-info {
+    width: 67%;
+    margin: 3em;
+    border: 1px solid salmon;
+    border-radius: 10px;
+}
+#form-info form {
+    margin: 2em;
+}
+#form-info form label {
+    font-size: 15px;
+    color: snow;
+    padding-top: 10px;
+}
